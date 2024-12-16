@@ -1,5 +1,5 @@
 # Bot
-Để tạo dịch vụ lưu trữ vps miễn phí của riêng bạn bằng tập lệnh. hãy chạy lệnh này trong terminal của bạn
+To create your own free vps hosting using script. run this command in your terminal
 
 Install Free VPS Bot:
 ```
