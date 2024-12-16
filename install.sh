@@ -24,9 +24,9 @@ echo "Installation successful"
 clear
 
 echo "Install the necessary files"
-wget https://raw.githubusercontent.com/AkshayAkshith/bot-freevps/refs/heads/main/Dockerfile1
-wget https://raw.githubusercontent.com/AkshayAkshith/bot-freevps/refs/heads/main/Dockerfile2
-wget https://raw.githubusercontent.com/AkshayAkshith/bot-freevps/refs/heads/main/main.py
+wget https://raw.githubusercontent.com/Solokingz/VpsBotFiles/refs/heads/main/Dockerfile1
+wget https://raw.githubusercontent.com/Solokingz/VpsBotFiles/refs/heads/main/Dockerfile2
+wget https://raw.githubusercontent.com/Solokingz/VpsBotFiles/refs/heads/main/main.py
 echo "Installation successful"
 
 clear
