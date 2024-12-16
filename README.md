@@ -3,5 +3,5 @@ To create your own free vps hosting using script. run this command in your termi
 
 Install Free VPS Bot:
 ```
-wget https://raw.githubusercontent.com/AlmostCloud/Bot/refs/heads/main/install.sh && bash install.sh
+wget https://raw.githubusercontent.com/Solokingz/VpsBotInstaller/refs/heads/main/install.sh && bash install.sh
 ```
