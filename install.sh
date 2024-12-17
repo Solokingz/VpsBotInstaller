@@ -2,7 +2,7 @@
 apt install wget -y
 clear
 
-echo "🅰🅻🅼🅾🆂🆃 🅲🅻🅾🆄🅳"
+echo "ᴍᴀᴋᴇᴅ ʙʏ - 𝖘𝖔𝖑𝖔𝖟𝖎𝖕"
 
 echo Create Your Own Free VPS Hosting!
 
